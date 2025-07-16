@@ -1,6 +1,5 @@
 ## Hi there I'm Princewill Okechukwu 👋
 
-<!--
 🎯 **Data Scientist | Python Developer | Machine Learning Enthusiast**
 
 Welcome to my GitHub! I’m passionate about turning data into actionable insights and building solutions that solve real-world problems. With a background in Computer Science and hands-on experience with Python, I’m continuously exploring new challenges in the data world.
@@ -42,5 +41,3 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 
 ⭐ **Thanks for stopping by!**  
 If you like what you see, feel free to ⭐ my repositories or reach out to collaborate.
-
--->
